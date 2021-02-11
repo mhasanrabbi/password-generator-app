@@ -6,4 +6,7 @@
 
 :point_right: Click on *Generate Password* to generate the password
 
-:point_right: Click on the *Clipboard icon* to copy the password
+:point_right: Click on the *:clipboard: Clipboard icon* to copy the password
+
+
+**Visit**: https://password-generator-app-one.vercel.app/
